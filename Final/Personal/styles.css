@@ -1,0 +1,43 @@
+h1{
+    color: rgb(255, 255, 255);
+    background-color: rgb(0, 55, 110);
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+nav{
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+section{
+    display: block;
+}
+h5{
+    font-size: 30px;
+    text-align: center;
+    
+}
+h6{
+    text-align: center;
+    text-size-: 30px;
+}
+h7{
+    text-align: center;
+    display: block;
+    text-size: 30px;
+}
+
+p{
+    color:slategray;
+    text-align: left;
+    line-height: 20px;
+    letter-spacing: 1px;
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+  }
